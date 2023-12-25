@@ -1,4 +1,4 @@
-![server-solid (1)](https://github.com/RicardoPaulino/tasks/assets/5764337/e6a603c9-fe94-4c70-b61c-19414009f8b2)![server-solid](https://github.com/RicardoPaulino/tasks/assets/5764337/4c0e5589-26ff-4bfa-a355-e2f2accf9a95)![server-solid](https://github.com/RicardoPaulino/tasks/assets/5764337/1cd6ee7a-7cfa-4c0d-9132-b5aa003b30dd)# Tasks Project
+# Tasks Project
 <p>Este projeto tem como obejtivo aplicar conceitos de padrões de projetos e boas práticas de desenvolvimento.</p>
 
 # Tecnologias
